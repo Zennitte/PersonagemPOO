@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\bin\Debug\net5.0\Personagem_POO.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\bin\Debug\net5.0\Personagem_POO.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\bin\Debug\net5.0\Personagem_POO.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\bin\Debug\net5.0\Personagem_POO.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\bin\Debug\net5.0\Personagem_POO.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\bin\Debug\net5.0\ref\Personagem_POO.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\bin\Debug\net5.0\Personagem_POO.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\obj\Debug\net5.0\Personagem_POO.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\obj\Debug\net5.0\Personagem_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\obj\Debug\net5.0\Personagem_POO.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\obj\Debug\net5.0\Personagem_POO.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\obj\Debug\net5.0\Personagem_POO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\obj\Debug\net5.0\Personagem_POO.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\obj\Debug\net5.0\ref\Personagem_POO.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\obj\Debug\net5.0\Personagem_POO.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End_POO\Personagem_POO\obj\Debug\net5.0\Personagem_POO.genruntimeconfig.cache
